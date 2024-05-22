@@ -1,0 +1,92 @@
+{
+    "books": [
+        
+        {
+            "title": "The dimensions of paradise",
+            "url": "https://psicodata.io/CDN/bookshelf/dimensions-of-paradise.pdf"    
+        },
+        {
+            "title": "The Elements of Euclid",
+            "url": "https://www.gutenberg.org/files/21076/21076-pdf.pdf"
+        },
+        {
+               
+            "title": "The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara",
+            "url": "https://www.gutenberg.org/cache/epub/22062/pg22062-images.html"
+        },
+        {
+               
+            "title": "Einstein's Theories of Relativity and Gravitation",
+            "url": "https://www.gutenberg.org/cache/epub/63372/pg63372-images.html"
+
+        },
+         {
+               
+            "title": "The History of Herodotus — Volume 1",
+            "url": "https://www.gutenberg.org/cache/epub/2707/pg2707-images.html"
+
+        },
+         {
+               
+            "title": "The History of Herodotus — Volume 2",
+            "url": "https://www.gutenberg.org/cache/epub/2456/pg2456-images.html"
+
+        },
+        {
+               
+            "title": "The Metamorphoses of Ovid, Books I-VII",
+            "url": "https://www.gutenberg.org/cache/epub/21765/pg21765-images.html"
+
+        },
+         {
+               
+            "title": "Gilgamesh",
+            "url": "https://www.gutenberg.org/cache/epub/11000/pg11000-images.html"
+
+        },
+        {
+               
+            "title": "THE MAHABHARATA",
+            "url": "https://www.gutenberg.org/cache/epub/11894/pg11894-images.html"
+
+        },
+         {
+               
+            "title": "The Art of War",
+            "url": "https://www.gutenberg.org/cache/epub/132/pg132-images.html"
+
+        },
+        {
+               
+            "title": "Plato SYMPOSIUM",
+            "url": "https://www.gutenberg.org/cache/epub/1600/pg1600-images.html"
+
+        },
+         {
+               
+            "title": "The Analects of Confucius",
+            "url": "https://www.gutenberg.org/cache/epub/3330/pg3330-images.html"
+
+        },
+        {
+               
+            "title": "The Republic",
+            "url": "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html"
+
+        },
+         {
+               
+            "title": "PHAEDO",
+            "url": "https://www.gutenberg.org/cache/epub/1658/pg1658-images.html"
+
+        }, {
+               
+            "title": "",
+            "url": ""
+
+        }
+
+        
+
+    ]
+}
