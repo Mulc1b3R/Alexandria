@@ -21,7 +21,8 @@ for instant access).
 * books.json : Database
 
 * The library comes pre-populated with some of the great works , both ancient and modern.(add more or delete as required).
-* To add books to your 'bookshelf' simply create a new 'empty' entry in 'books.json' and add the 'title' of the book and the url of it's remote location. 
+* To add books to your 'bookshelf' simply create a new 'empty' entry in 'books.json' and add the 'title' of the book and the url of it's remote location.
+* Internet shortcut - .url (As defined by Tim Berniers Lee , the creator of the www in 1994).
 ***********************************************************************************************************************************************************************************
 Mulciber
 
